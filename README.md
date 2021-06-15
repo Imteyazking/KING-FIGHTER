@@ -30,7 +30,7 @@ Sanki Autobot made by @Imteyaz_king. Supported by respective Sanki Autobot owner
 
   <summary> • INSTALLING • </summary>
 
-### The Easy Way
+### The Easy KING FIGHTER DEPLOY
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
